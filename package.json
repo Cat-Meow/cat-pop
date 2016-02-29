@@ -1,0 +1,27 @@
+{
+  "name": "cat-pop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/pop.js",
+  "scripts": {
+    "dev": "node node_modules/.bin/cat-server",
+    "pre-publish": "node node_modules/.bin/pre-publish"
+  },
+  "author": "yanweiqing",
+  "license": "MIT",
+  "files": [
+    "assets/",
+    "dist/",
+    "examples/",
+    "src/"
+  ],
+  "dependencies": {
+    "myui-core": "^0.1.0",
+    "react": "^0.14.x"
+  },
+  "devDependencies": {
+    "cat-button": "^1.1.0",
+    "react-dom": "^0.14.x",
+    "regether-rc-server": "^0.1.1"
+  }
+}
