@@ -1,4 +1,4 @@
-# Cat-Pop
+# React Salt - Pop
 使用Pop包裹组件，在特定操作下出发pop提示
 
 

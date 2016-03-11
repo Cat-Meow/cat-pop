@@ -1,10 +1,10 @@
 {
-  "name": "cat-pop",
-  "version": "1.0.0",
+  "name": "rs-pop",
+  "version": "0.1.0",
   "description": "",
   "main": "./dist/pop.js",
   "scripts": {
-    "dev": "node node_modules/.bin/cat-server",
+    "dev": "node node_modules/.bin/rs-server",
     "pre-publish": "node node_modules/.bin/pre-publish"
   },
   "author": "yanweiqing",
@@ -16,12 +16,12 @@
     "src/"
   ],
   "dependencies": {
-    "myui-core": "^0.1.0",
+    "rs-ui-core": "^0.1.0",
     "react": "^0.14.x"
   },
   "devDependencies": {
-    "cat-button": "^1.1.0",
+    "rs-button": "^0.1.x",
     "react-dom": "^0.14.x",
-    "regether-rc-server": "^0.1.1"
+    "rs-server": "^0.1.x"
   }
 }

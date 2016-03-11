@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Pop from '../src/pop.js';
-import Button from 'cat-button';
+import Button from 'rs-button';
 
 export default class Example extends Component{
     render() {
