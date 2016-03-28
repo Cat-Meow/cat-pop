@@ -53,7 +53,7 @@ export default class Example extends Component{
 
                 <Pop
                     place="left"
-                    content="这是一个"
+                    content="这是一个这是一个这是一个这是一个这是一个这是一个这是一个这是一个这是一个这是一个"
                     title="hello"
                     trigger="click">
                     <Button>Click left</Button>

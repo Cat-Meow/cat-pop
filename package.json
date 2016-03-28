@@ -1,6 +1,6 @@
 {
   "name": "rs-pop",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "./dist/pop.js",
   "scripts": {
@@ -20,8 +20,9 @@
     "react": "^0.14.x"
   },
   "devDependencies": {
-    "rs-button": "^0.1.x",
     "react-dom": "^0.14.x",
-    "rs-server": "^0.1.x"
+    "rs-button": "^0.1.x",
+    "rs-server": "^0.1.x",
+    "rs-ui-core": "^0.1.0"
   }
 }
